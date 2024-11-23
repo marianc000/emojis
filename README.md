@@ -1,0 +1,1 @@
+Sample code is described in https://marian-caikovski.medium.com/hiding-text-from-ctrl-f-in-a-browser-594e3643c815  
