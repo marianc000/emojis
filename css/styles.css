@@ -14,5 +14,5 @@ span {
 html {
     color: fuchsia;
     word-break: break-all;
-    font-variant-emoji: unset;
+    font-variant-emoji: text;
 }
